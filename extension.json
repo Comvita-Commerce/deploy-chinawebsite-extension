@@ -1,6 +1,6 @@
 {
   "id": "deploy-chinawebsite-extension",
-  "name": "deploy-chinawebsite-extension",
+  "name": "Deploy Chinawebsite Extension",
   "srcdoc": "./build/index.html",
   "sidebar": true
 }
